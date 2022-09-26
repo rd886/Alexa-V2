@@ -2,10 +2,6 @@
   <b>My Bot</b>
 </h1>
 
-  <p align="center">
-<a href="#"><img title="ALEXA-V2" src="https://deposit.pictures/p/0eb115f9787e4b5c97776aa95aee5893"></a>
-</p>
-
 
 ## 🔗Features
 
