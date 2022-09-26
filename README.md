@@ -54,7 +54,7 @@
 ## 🔗Deploy
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/rd886/Alexa-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
