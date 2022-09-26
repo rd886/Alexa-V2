@@ -4,7 +4,7 @@
 
 
   <p align="center">
-<a href="#"><img title="ALEXA-V2" src="https://img.shields.io/badge/ALEXA V2-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALEXA-V2" src="https://deposit.pictures/p/0eb115f9787e4b5c97776aa95aee5893 V2-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 
